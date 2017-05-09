@@ -1,5 +1,7 @@
 # set-state-async
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/setStateAsync.svg)](https://greenkeeper.io/)
+
 react component decorator for implement setStateAsync method which set state and return Promise
 
 ## Install
