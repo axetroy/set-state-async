@@ -1,1 +1,1 @@
-module.exports = require('./lib/react-img-lazy-load');
+module.exports = require('./lib/set-state-async');
